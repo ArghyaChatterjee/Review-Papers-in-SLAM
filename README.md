@@ -9,7 +9,7 @@ It's a personal repository to keep track of review research papers in SLAM
 
 4. [A. J. Davison, “FutureMapping: The Computational Structure of Spatial AI Systems,” arXiv preprint arXiv:1803.11288, 2018.](https://arxiv.org/pdf/1803.11288.pdf)
 
-5. A. J. Davison and J. Ortiz, “Futuremapping 2: Gaussian belief propagation for spatial ai,” arXiv preprint arXiv:1910.14139, 2019.
+5. [A. J. Davison and J. Ortiz, “Futuremapping 2: Gaussian belief propagation for spatial ai,” arXiv preprint arXiv:1910.14139, 2019.](https://arxiv.org/pdf/1910.14139.pdf)
 
 6. [L. Xia, J. Cui, R. Shen, X. Xu, Y. Gao, and X. Li, “A survey of image semantics-based visual simultaneous localization and mapping: Application-oriented solutions to autonomous navigation of mobile robots,” International Journal of Advanced Robotic Systems, vol. 17, no. 3, p. 1729881420919185, 2020.](https://drive.google.com/file/d/1piYEZMiu3Aw7gwsEBnBH4N7jXXJKfn_P/view?usp=sharing)
 
