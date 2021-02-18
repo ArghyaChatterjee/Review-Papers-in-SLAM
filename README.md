@@ -3,7 +3,7 @@ It's a personal repository to keep track of review research papers in SLAM
 
 1. [C. Cadena, L. Carlone, H. Carrillo, Y. Latif, D. Scaramuzza, J. Neira, I. Reid, and J. J. Leonard, “Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age,” IEEE Transactions on Robotics, vol. 32, no. 6, pp. 1309–1332, 2016.](https://arxiv.org/pdf/1606.05830.pdf)
 
-2. [S. Garg, N. S. underhauf, F. Dayoub, D. Morrison, A. Cosgun, G. Carneiro, Q. Wu, T. Chin, I. Reid, S. Gould, P. Corke, M. Milford, "Semantics for Robotic Mapping, Perception and Interaction: A Survey," Foundations and Trends in Robotics, vol. 8, no. 1–2, pp 1-224, 2020.](https://drive.google.com/file/d/1e4LGO3yCsZdhIOgm4yHCRb7AQVh-PhQW/view?usp=sharing)
+2. [S. Garg, N. S. underhauf, F. Dayoub, D. Morrison, A. Cosgun, G. Carneiro, Q. Wu, T. Chin, I. Reid, S. Gould, P. Corke, M. Milford, "Semantics for Robotic Mapping, Perception and Interaction: A Survey," Foundations and Trends in Robotics, vol. 8, no. 1–2, pp 1-224, 2020.](https://arxiv.org/pdf/2101.00443.pdf)
 
 3. I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: A survey,” Robotics and Autonomous Systems, vol. 66, pp. 86–103, 2015.
 
