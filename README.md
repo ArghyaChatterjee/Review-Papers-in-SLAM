@@ -7,11 +7,11 @@ It's a personal repository to keep track of review research papers in SLAM
 
 3. [I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: A survey,” Robotics and Autonomous Systems, vol. 66, pp. 86–103, 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0921889014003030)
 
-4. [A SLAM overview from a users perspective](https://www.researchgate.net/publication/220633576)
+4. [Frese, Udo, René Wagner, and Thomas Röfer. "A SLAM Overview from a User’s Perspective." KI-Künstliche Intelligenz 24.3 (2010): 191-198.](https://www.researchgate.net/publication/220633576)
 
-5. [A survey of simultaneous localization and mapping on unstructured lunar complex environment](https://aip.scitation.org/doi/pdf/10.1063/1.5005198)
+5. [Wang, Yiqiao, Wei Zhang, and Pei An. "A survey of simultaneous localization and mapping on unstructured lunar complex environment." AIP Conference Proceedings. Vol. 1890. No. 1. AIP Publishing LLC, 2017.](https://aip.scitation.org/doi/pdf/10.1063/1.5005198)
 
-6. [Visual SLAM algorithms: a survey from 2010 to 2016](https://ipsjcva.springeropen.com/articles/10.1186/s41074-017-0027-2)
+6. [Taketomi, Takafumi, Hideaki Uchiyama, and Sei Ikeda. "Visual SLAM algorithms: a survey from 2010 to 2016." IPSJ Transactions on Computer Vision and Applications 9.1 (2017): 1-11.](https://ipsjcva.springeropen.com/articles/10.1186/s41074-017-0027-2)
 
 7. [Dellenbach, Pierre, et al. "What s in My LiDAR Odometry Toolbox?." arXiv preprint arXiv:2103.09708 (2021).](https://arxiv.org/pdf/2103.09708.pdf)
 
